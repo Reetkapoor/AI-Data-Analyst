@@ -1,0 +1,8 @@
+pandas
+psycopg2
+sqlalchemy
+google-genai
+streamlit
+chromadb
+sentence-transformers
+plotly

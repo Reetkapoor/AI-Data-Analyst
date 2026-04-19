@@ -1,0 +1,30 @@
+Table: sales.salesorderheader
+Columns:
+salesorderid
+orderdate
+totaldue
+customerid
+
+Table: sales.salesorderdetail
+Columns:
+salesorderid
+productid
+orderqty
+unitprice
+
+Table: production.product
+Columns:
+productid
+name
+productsubcategoryid
+
+Table: production.productsubcategory
+Columns:
+productsubcategoryid
+name
+productcategoryid
+
+Table: production.productcategory
+Columns:
+productcategoryid
+name
